@@ -1,0 +1,51 @@
+body html{
+    font-family: sans-serif;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.header-container{
+    background-color: #418041;
+    min-height: 200px;
+    text-align: center;
+    overflow: hidden;
+
+}
+
+.sadrzaj {
+    font-size: 0;
+}
+.column{
+    min-height: 500px;
+    background-color: violet;
+    display: inline-block;
+    vertical-align: top;
+    overflow: hidden;
+
+
+    width: 20%;
+    font-size: 14px;
+
+}
+.main-content{
+    background-color: yellow;
+    min-height: 500px;
+    overflow: hidden;
+    display: inline-block;
+    width: 80%;
+    font-size: 14px;
+}
+.footer-container{
+    min-height: 150px;
+    background-color: tomato;
+}
+
+
+
+
+
+
+
+
+
+
